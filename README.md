@@ -8,7 +8,6 @@
 - Lombok
 - Jpa
 - Postman
-- Thymeleaf
 
 ## Desafio: 
 Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve permitir:
