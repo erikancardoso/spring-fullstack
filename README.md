@@ -1,4 +1,4 @@
-# Api Rest 
+# Curso Treina Web (Desenvolvedor Spring FullStack)
 
 ## Tecnologias utilizadas:
 - Spring-Boot
